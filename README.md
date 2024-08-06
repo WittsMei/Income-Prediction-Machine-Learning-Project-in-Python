@@ -4,4 +4,4 @@ An individual’s annual income results from various factors. Intuitively, it is
 
 This is a widely cited KNN dataset. It is also a good example for data pre-processing and machine learning practices.
 
-Click here to see [the prediction result](https://github.com/WittsMei/Income-Prediction-Machine-Learning-Project-in-Python/blob/main/Income%20Prection.ipynb)
+Click here to see [the prediction result](https://github.com/WittsMei/Income-Prediction-Machine-Learning-Project-in-Python/blob/main/Income%20Prection.ipynb).
