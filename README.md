@@ -13,4 +13,4 @@ Fields
 
 We can explore the possibility in predicting income level based on the individual’s personal information.
 
-Click here to see [the prediction result](https://github.com/WittsMei/Income-Prediction-Machine-Learning-Project-in-Python/blob/main/Income%20Prection.ipynb).
+Click here to see the [prediction result](https://github.com/WittsMei/Income-Prediction-Machine-Learning-Project-in-Python/blob/main/Income%20Prection.ipynb).
